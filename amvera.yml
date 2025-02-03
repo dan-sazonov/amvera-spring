@@ -1,0 +1,9 @@
+meta:
+  environment: jvm
+  toolchain:
+    name: gradle
+    version: 17
+
+run:
+  jarName: amvera-spring-1.0.0-SNAPSHOT.jar
+  containerPort: 8080
